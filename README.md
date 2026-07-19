@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋 I'm Tejashri Bhangale</h1>
 
-<h3 align="center">Software Engineer • AI Engineer • Full Stack Developer</h3>
+<h3 align="center">Software Engineer • AI Engineer • Data Analyst • Full Stack Developer</h3>
 
 <p align="center">
   Building intelligent software, developer tools, AI products and scalable web applications.
@@ -27,7 +27,6 @@
 ## AI Engineering Command Center
 
 ```text
-Status      : Online
 Role        : Software Engineer
 Focus       : AI -  Full Stack -  Backend -  Automation
 Experience  : AI Projects | Developer Tools | Healthcare
@@ -68,16 +67,7 @@ Mindset     : Learn fast, ship often, improve continuously
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
 ---
 
