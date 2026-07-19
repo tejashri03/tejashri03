@@ -2,55 +2,65 @@
   <img src="assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Tejashri Bhangale</h1>
+<h1 align="center">
+  <span style="color:#E2E8F0;">Hi 👋 I'm Tejashri Bhangale</span>
+</h1>
 
-<h3 align="center">Software Engineer • AI Engineer • Full Stack Developer</h3>
+<h3 align="center">
+  <span style="color:#94A3B8;">Software Engineer • AI Engineer • Full Stack Developer</span>
+</h3>
 
 <p align="center">
-  Building intelligent software, developer tools, AI products and scalable web applications.
+  <span style="color:#94A3B8;">Building intelligent software, developer tools, AI products and scalable web applications.</span>
 </p>
 
 <p align="center">
   <a href="https://github.com/tejashri03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bhangaletejashri325@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## AI Engineering Command Center
+## SYSTEM STATUS
 
 ```text
-Status      : Online
-Role        : Software Engineer
-Focus       : AI -  Full Stack -  Backend -  Automation
-Experience  : AI Projects | Developer Tools | Healthcare
-Location    : Navi Mumbai, India
-College     : Terna Engineering College
-Graduation  : 2027
+┌──────────────────────────────┐
+│ Status      : Online         │
+│ Role        : Software Eng.  │
+│ Focus       : AI / Backend   │
+│ Stack       : Full Stack Dev  │
+│ Location    : Navi Mumbai    │
+│ College     : Terna College   │
+│ Graduation  : 2027           │
+└──────────────────────────────┘
 ```
 
 ---
 
-## About Me
+## ABOUT
 
-I build practical software with strong focus on AI, backend systems, and developer tools.
-
-```text
-Mission     : Build products that solve real problems
-Style       : Clean systems, useful features, strong execution
-Mindset     : Learn fast, ship often, improve continuously
+```python
+class Tejashri:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.mission = "Build products that solve real problems."
+        self.languages = ["Python", "Java", "JavaScript", "TypeScript", "SQL"]
+        self.backend = ["FastAPI", "Flask", "Node.js"]
+        self.frontend = ["React", "Next.js", "HTML", "CSS", "Tailwind"]
+        self.ai = ["Machine Learning", "LLMs", "OpenAI API", "Prompt Engineering"]
+        self.interests = ["Developer Tools", "Healthcare AI", "Automation", "System Design"]
 ```
 
 ---
 
-## Currently Working On
+## CURRENT FOCUS
 
 - Building AI products with practical impact.
 - Improving backend architecture and system design.
@@ -60,28 +70,28 @@ Mindset     : Learn fast, ship often, improve continuously
 
 ---
 
-## Tech Stack
+## TECH STACK
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-1E293B?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/FastAPI-334155?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-475569?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
 ---
 
-## Featured Products
+## FEATURED BUILDS
 
 <p align="center">
   <img src="./assets/codeimpact.svg" width="48%">
@@ -100,7 +110,7 @@ Mindset     : Learn fast, ship often, improve continuously
 
 ---
 
-## GitHub Analytics
+## DASHBOARD
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -113,7 +123,7 @@ Mindset     : Learn fast, ship often, improve continuously
 
 ---
 
-## Engineering Principles
+## BUILD LOOP
 
 ```cpp
 while(true)
@@ -128,26 +138,22 @@ while(true)
 
 ---
 
-## Connect With Me
+## CONTACT
 
 <p align="center">
   <a href="mailto:bhangaletejashri325@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/tejashri03">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,100:2563EB&section=footer"/>
-</p>
-
-<p align="center">
-  <strong>Build software that creates impact.</strong>
+  <strong style="color:#CBD5E1;">Build software that creates impact.</strong>
 </p>
