@@ -2,27 +2,21 @@
   <img src="assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Tejashri Bhangale
-</h1>
+<h1 align="center">Hi 👋 I'm Tejashri Bhangale</h1>
 
-<h3 align="center">
-Software Engineer • AI Engineer • Full Stack Developer
-</h3>
+<h3 align="center">Software Engineer • AI Engineer • Full Stack Developer</h3>
 
 <p align="center">
-Building intelligent software, developer tools, AI products and scalable web applications.
+  Building intelligent software, developer tools, AI products and scalable web applications.
 </p>
 
 <p align="center">
   <a href="https://github.com/tejashri03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-
   <a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="mailto:bhangaletejashri325@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
@@ -30,29 +24,23 @@ Building intelligent software, developer tools, AI products and scalable web app
 
 ---
 
-# AI Engineering Command Center
+## AI Engineering Command Center
 
 ```text
 Status      : Online
-
 Role        : Software Engineer
-
 Focus       : AI -  Full Stack -  Backend -  Automation
-
 Experience  : AI Projects | Developer Tools | Healthcare
-
 Location    : Navi Mumbai, India
-
 College     : Terna Engineering College
-
 Graduation  : 2027
 ```
 
 ---
 
-# About Me
+## About Me
 
-I build practical software with a focus on AI, backend systems, and developer tools.
+I build practical software with strong focus on AI, backend systems, and developer tools.
 
 ```text
 Mission     : Build products that solve real problems
@@ -62,10 +50,19 @@ Mindset     : Learn fast, ship often, improve continuously
 
 ---
 
-# Tech Stack
+## Currently Working On
+
+- Building AI products with practical impact.
+- Improving backend architecture and system design.
+- Exploring LLM applications and automation.
+- Strengthening DSA and placement preparation.
+- Contributing to open source when possible.
+
+---
+
+## Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -73,20 +70,18 @@ Mindset     : Learn fast, ship often, improve continuously
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
 ---
 
-# Featured Products
+## Featured Products
 
 <p align="center">
   <img src="./assets/codeimpact.svg" width="48%">
@@ -105,23 +100,20 @@ Mindset     : Learn fast, ship often, improve continuously
 
 ---
 
-# What I'm Working On
+## GitHub Analytics
 
-```text
-✓ Building AI products with practical impact
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri03&theme=tokyonight&hide_border=true"/>
+</p>
 
-✓ Improving backend architecture and system design
-
-✓ Exploring LLM applications and automation
-
-✓ Strengthening DSA and placement preparation
-
-✓ Contributing to open source when possible
-```
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri03&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
 ```cpp
 while(true)
@@ -136,30 +128,15 @@ while(true)
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri03&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri03&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:bhangaletejashri325@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-
   <a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="https://github.com/tejashri03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
