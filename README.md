@@ -52,49 +52,12 @@ Graduation  : 2027
 
 # About Me
 
-```python
-class Tejashri:
-    def __init__(self):
-        self.role = "Software Engineer"
+I build practical software with a focus on AI, backend systems, and developer tools.
 
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "TypeScript",
-            "SQL"
-        ]
-
-        self.backend = [
-            "FastAPI",
-            "Flask",
-            "Node.js"
-        ]
-
-        self.frontend = [
-            "React",
-            "Next.js",
-            "HTML",
-            "CSS",
-            "Tailwind"
-        ]
-
-        self.ai = [
-            "Machine Learning",
-            "LLMs",
-            "OpenAI API",
-            "Prompt Engineering"
-        ]
-
-        self.interests = [
-            "Developer Tools",
-            "Healthcare AI",
-            "Automation",
-            "System Design"
-        ]
-
-    def mission(self):
-        return "Build products that solve real problems."
+```text
+Mission     : Build products that solve real problems
+Style       : Clean systems, useful features, strong execution
+Mindset     : Learn fast, ship often, improve continuously
 ```
 
 ---
@@ -142,37 +105,18 @@ class Tejashri:
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri03&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri03&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# Current Mission
+# What I'm Working On
 
 ```text
-✓ Building AI Products
+✓ Building AI products with practical impact
 
-✓ Learning System Design
+✓ Improving backend architecture and system design
 
-✓ Exploring LLM Applications
+✓ Exploring LLM applications and automation
 
-✓ Backend Engineering
+✓ Strengthening DSA and placement preparation
 
-✓ Developer Tools
-
-✓ Open Source Contributions
-
-✓ Placement Preparation
-
-✓ Problem Solving & DSA
+✓ Contributing to open source when possible
 ```
 
 ---
@@ -183,16 +127,25 @@ class Tejashri:
 while(true)
 {
     Learn();
-
     Build();
-
     Improve();
-
     Share();
-
     Repeat();
 }
 ```
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri03&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri03&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
