@@ -125,82 +125,20 @@ class Tejashri:
 
 # Featured Products
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="./assets/codeimpact.svg" width="48%">
+  <img src="./assets/shecares.svg" width="48%">
+</p>
 
-## 🧠 CodeImpact AI
+<p align="center">
+  <img src="./assets/medeco.svg" width="48%">
+  <img src="./assets/prodx.svg" width="48%">
+</p>
 
-AI-powered change impact analysis engine that detects file dependencies, visualizes relationships, and predicts the impact of code modifications using AST parsing and dependency graphs.
-
-**Tech**
-
-`TypeScript` `VS Code API` `AST` `Graph` `AI`
-
-</td>
-<td width="50%">
-
-## ❤️ SheCares
-
-AI-powered women's healthcare platform providing symptom analysis, PCOS awareness, health tracking, and intelligent healthcare assistance.
-
-**Tech**
-
-`Python` `React` `FastAPI` `ML`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 💊 MedEco
-
-Medicine expiry detection system using image processing and OCR to identify medicine information and help reduce medical waste.
-
-**Tech**
-
-`Python` `OCR` `Machine Learning`
-
-</td>
-<td width="50%">
-
-## 📊 ProdX
-
-Data-driven product analytics platform for A/B testing, experimentation, dashboards and product decision making.
-
-**Tech**
-
-`Python` `SQL` `Power BI` `Analytics`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## ⚙️ API Genome
-
-Backend API analysis platform capable of mapping APIs, dependencies and architecture for developers.
-
-**Tech**
-
-`Python` `FastAPI` `REST`
-
-</td>
-<td width="50%">
-
-## 🏢 Workspace Management
-
-Modern workplace management platform supporting employee operations, scheduling and administration.
-
-**Tech**
-
-`Python` `Tkinter` `MySQL`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/apigenome.svg" width="48%">
+  <img src="./assets/workspace.svg" width="48%">
+</p>
 
 ---
 
