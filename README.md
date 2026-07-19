@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tejashri03/tejashri03/main/assets/banner.svg" width="100%" alt="Banner"/>
+  <img src="assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">
@@ -15,19 +15,17 @@ Building intelligent software, developer tools, AI products and scalable web app
 </p>
 
 <p align="center">
+  <a href="https://github.com/tejashri03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 
-<a href="https://github.com/tejashri03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:bhangaletejashri325@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="mailto:bhangaletejashri325@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
@@ -56,9 +54,7 @@ Graduation  : 2027
 
 ```python
 class Tejashri:
-
     def __init__(self):
-
         self.role = "Software Engineer"
 
         self.languages = [
@@ -211,17 +207,12 @@ Modern workplace management platform supporting employee operations, scheduling 
 # GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri03&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejashri03&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri03&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri03&theme=tokyo-night&hide_border=true"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri03&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -254,9 +245,13 @@ Modern workplace management platform supporting employee operations, scheduling 
 while(true)
 {
     Learn();
+
     Build();
+
     Improve();
+
     Share();
+
     Repeat();
 }
 ```
@@ -266,31 +261,25 @@ while(true)
 # Connect With Me
 
 <p align="center">
+  <a href="mailto:bhangaletejashri325@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
 
-<a href="mailto:bhangaletejashri325@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/tejashri-bhangale-657a65289">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/tejashri03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/tejashri03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,100:2563EB&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,100:2563EB&section=footer"/>
 </p>
 
 <p align="center">
-
-### "Build software that creates impact."
-
+  <strong>Build software that creates impact.</strong>
 </p>
