@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/tejashri03/tejashri03/main/assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">
@@ -39,7 +39,7 @@ Status      : Online
 
 Role        : Software Engineer
 
-Focus       : AI • Full Stack • Backend • Automation
+Focus       : AI -  Full Stack -  Backend -  Automation
 
 Experience  : AI Projects | Developer Tools | Healthcare
 
@@ -116,26 +116,21 @@ class Tejashri:
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
 ---
+
 # Featured Products
 
 <table>
-
 <tr>
-
 <td width="50%">
 
 ## 🧠 CodeImpact AI
@@ -147,7 +142,6 @@ AI-powered change impact analysis engine that detects file dependencies, visuali
 `TypeScript` `VS Code API` `AST` `Graph` `AI`
 
 </td>
-
 <td width="50%">
 
 ## ❤️ SheCares
@@ -159,11 +153,9 @@ AI-powered women's healthcare platform providing symptom analysis, PCOS awarenes
 `Python` `React` `FastAPI` `ML`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ## 💊 MedEco
@@ -172,14 +164,9 @@ Medicine expiry detection system using image processing and OCR to identify medi
 
 **Tech**
 
-`Python`
-
-`OCR`
-
-`Machine Learning`
+`Python` `OCR` `Machine Learning`
 
 </td>
-
 <td width="50%">
 
 ## 📊 ProdX
@@ -188,36 +175,23 @@ Data-driven product analytics platform for A/B testing, experimentation, dashboa
 
 **Tech**
 
-`Python`
-
-`SQL`
-
-`Power BI`
-
-`Analytics`
+`Python` `SQL` `Power BI` `Analytics`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
-## ⚙ API Genome
+## ⚙️ API Genome
 
 Backend API analysis platform capable of mapping APIs, dependencies and architecture for developers.
 
 **Tech**
 
-`Python`
-
-`FastAPI`
-
-`REST`
+`Python` `FastAPI` `REST`
 
 </td>
-
 <td width="50%">
 
 ## 🏢 Workspace Management
@@ -226,16 +200,10 @@ Modern workplace management platform supporting employee operations, scheduling 
 
 **Tech**
 
-`Python`
-
-`Tkinter`
-
-`MySQL`
+`Python` `Tkinter` `MySQL`
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -286,13 +254,9 @@ Modern workplace management platform supporting employee operations, scheduling 
 while(true)
 {
     Learn();
-
     Build();
-
     Improve();
-
     Share();
-
     Repeat();
 }
 ```
